@@ -12,4 +12,4 @@ end
     @job
   end
 end
-beyonce = Person
+beyonce = person.new
